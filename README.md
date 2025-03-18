@@ -20,6 +20,8 @@ H Plane first null beamwidth:	80
 
 ![image](https://github.com/user-attachments/assets/e42dfa19-44c6-4b0a-9bcd-f7ed2729f9c8)
 
+Figure above exhibits the project view of U2U communication where X and Y are two transceivers.
+
 1x8 Antenna Array: All the parameters and simulation scenario are given below.
 
 Antenna type:	1x8 antenna array
@@ -40,3 +42,5 @@ Transmit power:	53.01 dBm
 
 
 ![image](https://github.com/user-attachments/assets/ca994ce4-a4e4-4a04-b8bf-4da19fe01a57)
+
+Figure above exhibits the project view of U2U communication where X and Y are two transceivers.
