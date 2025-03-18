@@ -8,16 +8,6 @@ Antenna type:	Directional
 
 Polarization: 	Circular
 
-Maximum gain:	12 dBi
-
-E Plane half power beamwidth:	60.4
-
-E Plane first null beamwidth:	80
-
-H Plane half power beamwidth:	60.4
-
-H Plane first null beamwidth:	80
-
 ![image](https://github.com/user-attachments/assets/e42dfa19-44c6-4b0a-9bcd-f7ed2729f9c8)
 
 Figure above exhibits the project view of U2U communication where X and Y are two transceivers.
@@ -27,16 +17,6 @@ Figure above exhibits the project view of U2U communication where X and Y are tw
 Antenna type:	1x8 antenna array
 
 Polarization: Circular
-
-Maximum gain: 18.8 dBi
-
-E Plane half power beamwidth:	12.3
-
-E Plane first null beamwidth:	60
-
-H Plane half power beamwidth:	12.3
-
-H Plane first null beamwidth:	60
 
 Transmit power:	53.01 dBm
 
